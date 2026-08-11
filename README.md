@@ -29,12 +29,14 @@
     </td> 
   </tr> 
 </table>
-
+---
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+
+<div style="display: flex; width: 100%;">
+
+<div style="width: 50%; text-align: left;">
 
 ### 💻 Languages
 
@@ -57,9 +59,9 @@
 - MySQL
 - Redis
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<div style="width: 50%; text-align: left;">
 
 ### 🔐 API & Security
 
@@ -87,9 +89,12 @@
 - Playwright
 - Snyk
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
+
+</div>
+---
 
 ## 📌 Featured Projects
 
