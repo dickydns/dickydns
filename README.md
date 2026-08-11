@@ -42,7 +42,7 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 💻 Languages
 
@@ -67,7 +67,7 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🔐 API & Security
 
