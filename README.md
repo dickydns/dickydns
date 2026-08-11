@@ -13,8 +13,8 @@
   
   Currently, I'm open to new opportunities as:
   
-  Backend Engineer
-  Backend Developer
+  Backend Engineer -
+  Full Stack Developer -
   Software Engineer
   <br/>
   <br/>
