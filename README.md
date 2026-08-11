@@ -2,13 +2,34 @@
 
 ### Backend Engineer | Open to Work
 
-I'm a Backend Engineer with 5+ years of experience building and maintaining backend systems, RESTful APIs, and system integrations.
+<table> <tr> <td width="60%" valign="top">
 
-Currently open to new opportunities as a **Backend Engineer / Backend Developer / Software Engineer**.
+👨‍💻 About Me
 
-📍 Bogor, West Java, Indonesia  
-💼 Open to Remote, Hybrid, or Onsite opportunities
+I'm a Backend Engineer with 5+ years of experience building and maintaining backend systems and RESTful APIs.
 
+I enjoy building reliable backend systems, solving technical problems, and exploring new technologies.
+
+Currently, I'm open to new opportunities as:
+
+Backend Engineer
+Backend Developer
+Software Engineer
+
+📍 Bogor, Indonesia
+💼 Remote · Hybrid · Onsite
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="280">
+
+<br>
+
+"Just one more bug..." 🐱
+
+</td> </tr> </table>
 ---
 
 ## 🚀 About Me
