@@ -29,42 +29,32 @@
     </td> 
   </tr> 
 </table>
+<br/>
 ---
+
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<div style="display: flex; width: 100%;">
-
-<div style="width: 50%; text-align: left;">
-
-### 💻 Languages
-
+**Languages**
 - JavaScript
 - TypeScript
 - PHP
+- Go
 
-### ⚙️ Backend
-
+**Backend**
 - Node.js
 - NestJS
 - Express.js
 - Fastify
 - Laravel
 - CodeIgniter
+- Gin
 
-### 🗄️ Database & Storage
-
+**Database & Storage**
 - PostgreSQL
 - MySQL
 - Redis
 
-</div>
-
-<div style="width: 50%; text-align: left;">
-
-### 🔐 API & Security
-
+**API & Security**
 - REST API
 - JWT
 - RBAC
@@ -72,16 +62,14 @@
 - Rate Limiting
 - Kong API Gateway
 
-### 🚀 DevOps & Infrastructure
-
+**DevOps & Infrastructure**
 - Docker
 - CI/CD
 - AWS S3
 - MinIO
 - VPS Deployment
 
-### 📊 Monitoring & Testing
-
+**Monitoring & Testing**
 - Prometheus
 - Grafana
 - Sentry
@@ -89,11 +77,6 @@
 - Playwright
 - Snyk
 
-</div>
-
-</div>
-
-</div>
 ---
 
 ## 📌 Featured Projects
