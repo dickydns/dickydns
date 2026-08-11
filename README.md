@@ -9,7 +9,7 @@
   Express.js), Laravel, and CodeIgniter. Skilled in designing RESTful APIs, API Gateway architecture (Kong), and secure
   authentication using JWT, RBAC, and ABAC. Familiar with Docker, CI/CD pipelines, RabbitMQ, Redis caching, and VPS
   deployment
-  
+  <br/><br/>
   Currently, I'm open to new opportunities as:
   
   Backend Engineer -
