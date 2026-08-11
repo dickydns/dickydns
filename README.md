@@ -16,7 +16,8 @@ Currently, I'm open to new opportunities as:
 Backend Engineer
 Backend Developer
 Software Engineer
-
+<br/>
+<br/>
 📍 Bogor, Indonesia
 💼 Remote · Hybrid · Onsite
 
