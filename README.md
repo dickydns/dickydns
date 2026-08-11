@@ -24,7 +24,7 @@ Software Engineer
 
 <td width="40%" align="center">
 <br>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2RsdHJxM3V5cHdmM2hsanN0enpqcmJtbmp4bmYybDl6eG9tZjQzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H1dxi6xdh4NGQCZSvz/giphy.gif" width="280">
+<img src="./image/cat.gif" width="280">
 
 
 </td> </tr> </table>
