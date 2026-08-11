@@ -38,17 +38,20 @@ My experience includes developing REST APIs, integrating third-party services, w
 
 I also enjoy exploring new technologies and learning how to build scalable and reliable backend systems.
 
----
-
 ## 🛠️ Tech Stack
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Languages
+
 - JavaScript
 - TypeScript
 - PHP
 
+### ⚙️ Backend
 
-**Backend**
 - Node.js
 - NestJS
 - Express.js
@@ -56,13 +59,18 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 - Laravel
 - CodeIgniter
 
+### 🗄️ Database & Storage
 
-**Database & Storage**
 - PostgreSQL
 - MySQL
 - Redis
 
-**API & Security**
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 API & Security
+
 - REST API
 - JWT
 - RBAC
@@ -70,14 +78,16 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 - Rate Limiting
 - Kong API Gateway
 
-**DevOps & Infrastructure**
+### 🚀 DevOps & Infrastructure
+
 - Docker
 - CI/CD
 - AWS S3
 - MinIO
 - VPS Deployment
 
-**Monitoring & Testing**
+### 📊 Monitoring & Testing
+
 - Prometheus
 - Grafana
 - Sentry
@@ -85,8 +95,11 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 - Playwright
 - Snyk
 
----
+</td>
+</tr>
+</table>
 
+---
 
 ## 📌 Featured Projects
 
