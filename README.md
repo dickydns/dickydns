@@ -5,7 +5,7 @@
 <table> 
   <tr> <td width="60%" valign="top">
   👨‍💻 About Me
-  
+  <br/>
   Backend Engineer with 5+ years of experience building scalable backend applications using Node.js ( NestJS, Fastify,
   Express.js), Laravel, and CodeIgniter. Skilled in designing RESTful APIs, API Gateway architecture (Kong), and secure
   authentication using JWT, RBAC, and ABAC. Familiar with Docker, CI/CD pipelines, RabbitMQ, Redis caching, and VPS
@@ -29,8 +29,6 @@
     </td> 
   </tr> 
 </table>
-<br/>
-
 
 ---
 
