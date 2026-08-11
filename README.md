@@ -40,7 +40,7 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="100%" valign="top">
 
