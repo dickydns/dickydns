@@ -1,39 +1,10 @@
 # 👋 Hi, I'm Dicky Perdian
 
 ### Backend Engineer | Open to Work
-
-<<<<<<< HEAD
-<table>
-  <tr > 
-    <td width="60%" valign="top" >
-    👨‍💻 About Me
-      <br/>
-        <br/>
-      Backend Engineer with 5+ years of experience building scalable backend applications using Node.js ( NestJS, Fastify,
-      Express.js), Laravel, and CodeIgniter. Skilled in designing RESTful APIs, API Gateway architecture (Kong), and secure
-      authentication using JWT, RBAC, and ABAC. Familiar with Docker, CI/CD pipelines, RabbitMQ, Redis caching, and VPS
-      deployment
-      
-      Currently, I'm open to new opportunities as:
-      
-      Backend Engineer -
-      Full Stack Developer -
-      Software Engineer
-      <br/>
-      <br/>
-      📍 Bogor, Indonesia
-      💼 Remote · Hybrid · Onsite
-      
-    </td>
-    
-    <td width="40%" align="center">
-      <br>
-      <img src="./image/cat.gif" width="280">
-=======
 <table> 
   <tr> <td width="60%" valign="top">
   👨‍💻 About Me
-  
+  <br/><br/>
   Backend Engineer with 5+ years of experience building scalable backend applications using Node.js ( NestJS, Fastify,
   Express.js), Laravel, and CodeIgniter. Skilled in designing RESTful APIs, API Gateway architecture (Kong), and secure
   authentication using JWT, RBAC, and ABAC. Familiar with Docker, CI/CD pipelines, RabbitMQ, Redis caching, and VPS
@@ -54,11 +25,9 @@
   <td width="40%" align="center">
     <br>
     <img src="./image/cat.gif" width="280">
->>>>>>> parent of 675f154 (Clean up README formatting)
-    </td> 
+  </td> 
   </tr> 
 </table>
-<br/>
 
 
 ---
