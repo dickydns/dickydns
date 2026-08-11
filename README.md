@@ -2,8 +2,8 @@
 
 ### Backend Engineer | Open to Work
 
-<table>
-  <tr bgcolor="#2c3e50"> 
+<table bgcolor="#2c3e50">
+  <tr > 
     <td width="60%" valign="top" >
   👨‍💻 About Me
     <br/><br/>
