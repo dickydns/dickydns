@@ -22,12 +22,9 @@ Software Engineer
 </td>
 
 <td width="40%" align="center">
-
+<br>
 <img src="https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif?w=1116&fit=max&auto=format" width="280">
 
-<br>
-
-"Just one more bug..." 🐱
 
 </td> </tr> </table>
 
