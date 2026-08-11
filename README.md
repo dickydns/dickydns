@@ -27,7 +27,7 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 - JavaScript
 - TypeScript
 - PHP
-- Go
+
 
 **Backend**
 - Node.js
@@ -36,7 +36,7 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 - Fastify
 - Laravel
 - CodeIgniter
-- Gin
+
 
 **Database & Storage**
 - PostgreSQL
