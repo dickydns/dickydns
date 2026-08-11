@@ -68,26 +68,6 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 
 ---
 
-## 💼 Experience
-
-**Backend Engineer — Caliana Indonesia**  
-Jan 2026 – Feb 2026
-
-- Focused on backend bug fixing and maintenance.
-- Resolved 22 critical bugs across billing and cron job modules within 2 weeks.
-- Implemented backend improvements for staging and production environments.
-
-**Backend Engineer — PT Digitalline Indonesia**  
-May 2019 – Oct 2025
-
-Worked on various backend systems including:
-
-- Restaurant POS & Subscription System
-- KYC & Financing System
-- Event Ticketing & Lottery Platform
-- Apple Device Service Platform
-
----
 
 ## 📌 Featured Projects
 
@@ -112,7 +92,7 @@ A simple Circuit Breaker & Retry implementation built with Go.
 ## 📫 Let's Connect
 
 [LinkedIn](https://linkedin.com/in/dicky-perdian) ·
-[GitHub](https://github.com/dickydns)
+[Medium](https://medium.com/@dickyperdian29)
 
 📧 perdiandicky@gmail.com
 
