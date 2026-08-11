@@ -3,8 +3,8 @@
 ### Backend Engineer | Open to Work
 
 <table>
-  <tr> 
-    <td width="60%" valign="top" bgcolor="#2c3e50">
+  <tr bgcolor="#2c3e50"> 
+    <td width="60%" valign="top" >
   👨‍💻 About Me
     <br/><br/>
     Backend Engineer with 5+ years of experience building scalable backend applications using Node.js ( NestJS, Fastify,
