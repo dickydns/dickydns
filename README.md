@@ -40,9 +40,11 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 💻 Languages
 
@@ -67,7 +69,7 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 
 </td>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔐 API & Security
 
@@ -98,7 +100,6 @@ I also enjoy exploring new technologies and learning how to build scalable and r
 </td>
 </tr>
 </table>
-
 ---
 
 ## 📌 Featured Projects
