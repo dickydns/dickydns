@@ -2,25 +2,26 @@
 
 ### Backend Engineer | Open to Work
 
-<table style="background-color: #2c3e50;">
-  <tr> <td width="60%" valign="top">
+<table>
+  <tr> 
+    <td width="60%" valign="top" bgcolor="#2c3e50">
   👨‍💻 About Me
-  <br/><br/>
-  Backend Engineer with 5+ years of experience building scalable backend applications using Node.js ( NestJS, Fastify,
-  Express.js), Laravel, and CodeIgniter. Skilled in designing RESTful APIs, API Gateway architecture (Kong), and secure
-  authentication using JWT, RBAC, and ABAC. Familiar with Docker, CI/CD pipelines, RabbitMQ, Redis caching, and VPS
-  deployment
-  
-  Currently, I'm open to new opportunities as:
-  
-  Backend Engineer -
-  Full Stack Developer -
-  Software Engineer
-  <br/>
-  <br/>
-  📍 Bogor, Indonesia
-  💼 Remote · Hybrid · Onsite
-  
+    <br/><br/>
+    Backend Engineer with 5+ years of experience building scalable backend applications using Node.js ( NestJS, Fastify,
+    Express.js), Laravel, and CodeIgniter. Skilled in designing RESTful APIs, API Gateway architecture (Kong), and secure
+    authentication using JWT, RBAC, and ABAC. Familiar with Docker, CI/CD pipelines, RabbitMQ, Redis caching, and VPS
+    deployment
+    
+    Currently, I'm open to new opportunities as:
+    
+    Backend Engineer -
+    Full Stack Developer -
+    Software Engineer
+    <br/>
+    <br/>
+    📍 Bogor, Indonesia
+    💼 Remote · Hybrid · Onsite
+    
   </td>
   
   <td width="40%" align="center">
