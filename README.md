@@ -2,7 +2,7 @@
 
 ### Backend Engineer | Open to Work
 
-<table> 
+<table background="#2c3e50"> 
   <tr> <td width="60%" valign="top">
   👨‍💻 About Me
   <br/><br/>
