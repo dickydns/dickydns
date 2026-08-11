@@ -6,9 +6,10 @@
 
 👨‍💻 About Me
 
-I'm a Backend Engineer with 5+ years of experience building and maintaining backend systems and RESTful APIs.
-
-I enjoy building reliable backend systems, solving technical problems, and exploring new technologies.
+Backend Engineer with 5+ years of experience building scalable backend applications using Node.js ( NestJS, Fastify,
+Express.js), Laravel, and CodeIgniter. Skilled in designing RESTful APIs, API Gateway architecture (Kong), and secure
+authentication using JWT, RBAC, and ABAC. Familiar with Docker, CI/CD pipelines, RabbitMQ, Redis caching, and VPS
+deployment
 
 Currently, I'm open to new opportunities as:
 
@@ -23,7 +24,7 @@ Software Engineer
 
 <td width="40%" align="center">
 <br>
-<img src="https://cdn.sanity.io/images/do2rqv0h/production/3356021b2d743e60cb89b0b97196fb2b2b0b44a0-800x800.gif" width="280">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2RsdHJxM3V5cHdmM2hsanN0enpqcmJtbmp4bmYybDl6eG9tZjQzYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H1dxi6xdh4NGQCZSvz/giphy.gif" width="280">
 
 
 </td> </tr> </table>
